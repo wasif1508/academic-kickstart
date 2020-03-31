@@ -52,7 +52,7 @@ social:
   link: https://www.facebook.com/wasif1508
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/wasif1508
+  link: https://linkedin.com/in/wasif1508
 - icon: github
   icon_pack: fab
   link: https://github.com/wasif1508

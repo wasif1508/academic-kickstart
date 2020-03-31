@@ -14,46 +14,48 @@ role: Sophomore Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: IIT-Kanpur
-  url: ""
+- name: Indian Institute of Technology, Kanpur
+  url: "https://iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Machine Learning
+- Computer Vision
+- Reinforcement Learning
+- Deep Learning
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+ # - course: PhD in Artificial Intelligence
+   # institution: Stanford University
+  #  year: 2012
+ # - course: MEng in Artificial Intelligence
+   # institution: Massachusetts Institute of Technology
+   # year: 2009
+  - course: Bachelor of Technology in Electrical Engineering
+    institution: Indian Institute of Technology, Kanpur
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: envelope
+ # icon_pack: fas
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/wasif1508
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/wasif1508
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wasif1508
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
----
+# - Researchers
+# - Visitors
+# ---
+I am a sophomre undergraduate majoring in Electrical Engineering from the Indian Institute of Technology, Kanpur. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am broadly interested in the field of Artificial Intelligence and Machine Learning. I have been working in the area of Bayesian Machine Learning for the past few months and I have been fascinated by the amount of Mathematics underlying and governing it. Besides I have worked on some exciting Computer Vision and Natural Language Processing tasks in my sophomore year. I had a very brief exposure to Reinforcement Learning in my previous winters and hope to explore it rigorously sometime in future.

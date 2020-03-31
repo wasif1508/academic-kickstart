@@ -70,7 +70,7 @@ email: ""
 user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 I am a sophomre undergraduate majoring in Electrical Engineering from the Indian Institute of Technology, Kanpur. 
 
 I am broadly interested in the field of Artificial Intelligence and Machine Learning. I have been working in the area of Bayesian Machine Learning for the past few months and I have been fascinated by the amount of Mathematics underlying and governing it. Besides I have worked on some exciting Computer Vision and Natural Language Processing tasks in my sophomore year. I had a very brief exposure to Reinforcement Learning in my previous winters and hope to explore it rigorously sometime in future.
